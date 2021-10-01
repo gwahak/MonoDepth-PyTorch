@@ -142,3 +142,8 @@ numpy
 matplotlib
 easydict
 ```
+## weights
+
+https://blog.csdn.net/caikw62/article/details/104567208
+https://my.pcloud.com/publink/show?code=XZb5r97ZD7HDDlc237BMjoCbWJVYMm0FLKcy
+
